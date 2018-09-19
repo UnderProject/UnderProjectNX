@@ -1,2 +1,4 @@
 # UnderProjectNX
-Undertale forma Nintendo Switch en español
+Undertale for Nintendo Switch en español
+
+![Banner](/assets/Banner.png)
