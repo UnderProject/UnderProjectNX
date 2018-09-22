@@ -1,6 +1,6 @@
 @echo off
 Title UnderProjectNX
-set /p path="Drag the nsp file here: "
+set /p path="Arrastra el archivo nsp aqui: "
 tools\hactool.exe "%path:"=%" -k keys.dat -x --intype=pfs0 --pfs0dir="%CD%\tools\extracted"
 tools\titlekey.exe
 set /p var=<tools\final.txt
