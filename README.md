@@ -16,13 +16,13 @@ Undertale for Nintendo Switch en Español
 
 
 ## Creditos: (WIP)
-[Hactool](https://github.com/SciresM/hactool)
+* [Hactool](https://github.com/SciresM/hactool)
 
-Xdelta3
+* [Xdelta3](https://github.com/jmacd/xdelta)
 
-[Undertale-Spanish](http://www.undertale-spanish.com/)
+* [Undertale-Spanish](http://www.undertale-spanish.com/)
 
-[Undertale Mod Tools](https://github.com/krzys-h/UndertaleModTool)
+* [Undertale Mod Tools](https://github.com/krzys-h/UndertaleModTool)
 
 ## Creadores:
 * **Alexnavia3**: Traductor
