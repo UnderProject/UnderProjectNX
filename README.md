@@ -7,12 +7,13 @@ Undertale for Nintendo Switch en Español
 ## Como usar el parcheador y ejecutar el parche
 1. Descarga la última [release](https://github.com/UnderProject/UnderProjectNX/releases)
 2. Extrae UnderProjectNX.zip
-3. Ejecuta TRADUCIR.bat
-4. Arrastra el nsp y pulsa intro
-5. El juego parcheado se creara en la carpeta READY_LAYEREDFS
-6. Coge el contenido de READY_LAYEREDFS y depositalo en la carpeta "(CARPETA CORRESPONDIENTE A TU CFW)"
-7. Ejecuta tu CFW y abre el juego.
-8. Disfruta de la alpha.
+3. Añade el archivo keys.txt 
+4. Ejecuta TRADUCIR.bat
+5. Arrastra el nsp y pulsa intro
+6. El juego parcheado se creara en la carpeta READY_LAYEREDFS
+7. Coge el contenido de READY_LAYEREDFS y depositalo en la carpeta "(CARPETA CORRESPONDIENTE A TU CFW)"
+8. Ejecuta tu CFW y abre el juego.
+9. Disfruta de la alpha.
 
 
 ## Creditos: (WIP)
