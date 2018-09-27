@@ -32,3 +32,6 @@ Undertale for Nintendo Switch en Español
 * **Kato-cha (LOL)**: Traductor, Modder
 * **OddYow**: Traductora
 * **Xalgovia**: Diseñador gráfico, Traductor, Modder
+
+## ¿Quieres ser betatester?
+Rellena este formulario: https://docs.google.com/forms/d/e/1FAIpQLSdW2tvk2UqKAhtn8P2pAZfR0a12kxQ2KUJbvq7fS66QwrksGA/viewform?usp=sf_link
