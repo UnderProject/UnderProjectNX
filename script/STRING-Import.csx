@@ -1,4 +1,4 @@
-﻿using (StreamReader reader = new StreamReader("strings.txt"))
+﻿using (StreamReader reader = new StreamReader("strings.dat"))
 {
     foreach (var str in Data.Strings)
     {
