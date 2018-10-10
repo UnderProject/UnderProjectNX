@@ -2,7 +2,11 @@
 
 ![Banner](/assets/Banner.png)
 
-Undertale for Nintendo Switch en Español
+Undertale per Nintendo Switch in italiano
+
+## Questa lingua è supervisionata dalla Italian Team
+
+![UTNX](/assets/UTNX.png)
 
 ## Como usar el parcheador y ejecutar el parche
 1. Descarga la última [release](https://github.com/UnderProject/UnderProjectNX/releases)
@@ -21,17 +25,14 @@ Undertale for Nintendo Switch en Español
 
 * [Xdelta3](https://github.com/jmacd/xdelta)
 
-* [Undertale-Spanish](http://www.undertale-spanish.com/)
+* [Spaghetti Project](http://undertaleita.net/)
 
 * [Undertale Mod Tools](https://github.com/krzys-h/UndertaleModTool)
 
 ## Creadores:
-* **Alexnavia3**: Traductor
-* **D3fau4**: Coordinador, Traductor, Modder
-* **JonyLuke**: Diseñador gráfico, Traductor, Modder
-* **Kato-cha (LOL)**: Traductor, Modder
-* **OddYow**: Traductora
-* **Xalgovia**: Diseñador gráfico, Traductor, Modder
+* **D3fau4**: coordinatore, Modder
+* **JonyLuke**: Modder
+* **Nasta95**: traduttore
+* **Xalgovia**: Progettista grafico, Modder
 
-## ¿Quieres ser betatester?
-Rellena este formulario: https://docs.google.com/forms/d/e/1FAIpQLSdW2tvk2UqKAhtn8P2pAZfR0a12kxQ2KUJbvq7fS66QwrksGA/viewform?usp=sf_link
+
