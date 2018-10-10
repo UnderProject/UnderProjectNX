@@ -6,7 +6,7 @@ Undertale per Nintendo Switch in italiano
 
 ## Questa lingua è supervisionata dalla Italian Team
 
-![UTNX](/assets/UTNX.png)
+![UTNZ](/assets/UTNZ.png)
 
 ## Como usar el parcheador y ejecutar el parche
 1. Descarga la última [release](https://github.com/UnderProject/UnderProjectNX/releases)
