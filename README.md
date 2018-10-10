@@ -13,7 +13,7 @@ Undertale for Nintendo Switch en Español
 6. El juego parcheado se creara en la carpeta READY_LAYEREDFS
 7. Coge el contenido de READY_LAYEREDFS y depositalo en la carpeta "(CARPETA CORRESPONDIENTE A TU CFW)"
 8. Ejecuta tu CFW y abre el juego.
-9. Disfruta de la alpha.
+9. Disfruta de la beta.
 
 
 ## Creditos: (WIP)
