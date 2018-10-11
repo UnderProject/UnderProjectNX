@@ -4,23 +4,23 @@
 
 Undertale per Nintendo Switch in italiano
 
-## Questa lingua è supervisionata dalla Italian Team
+## Questa lingua è supervisionata dall' Italian Team
 
 ![UTNZ](/assets/UTNZ.png)
 
-## Como usar el parcheador y ejecutar el parche
-1. Descarga la última [release](https://github.com/UnderProject/UnderProjectNX/releases)
-2. Extrae UnderProjectNX.zip
-3. Añade el archivo keys.txt 
-4. Ejecuta TRADUCIR.bat
-5. Arrastra el nsp y pulsa intro
-6. El juego parcheado se creara en la carpeta READY_LAYEREDFS
-7. Coge el contenido de READY_LAYEREDFS y depositalo en la carpeta "(CARPETA CORRESPONDIENTE A TU CFW)"
-8. Ejecuta tu CFW y abre el juego.
-9. Disfruta de la beta.
+## Come applicare la patch
+1. Scarica l'ultima [release](https://github.com/UnderProject/UnderProjectNX/releases)
+2. Estrai UnderProjectNX.zip
+3. Copia nell'archivio estratto il file keys.txt (NON incluso)
+4. Esegui il file TRADUCIR.bat
+5. Trascina il file NSP di Undertale sulla finestra e premi INVIO
+6. Il gioco patchato verrà creato nella cartella READY_LAYEREDFS
+7. Copia il contenuto della cartella READY_LAYEREDFS e incollalo nella SD nella cartella corrispondente al tuo CFW (Atmosphere/ReiNX/SXOS ecc)
+8. Avvia la Switch in RCM ed esegui il tuo CFW, poi apri il gioco
+9. Goditi la beta!
 
 
-## Creditos: (WIP)
+## Crediti: (WIP)
 * [Hactool](https://github.com/SciresM/hactool)
 
 * [Xdelta3](https://github.com/jmacd/xdelta)
@@ -29,10 +29,11 @@ Undertale per Nintendo Switch in italiano
 
 * [Undertale Mod Tools](https://github.com/krzys-h/UndertaleModTool)
 
-## Creadores:
+## Creatori:
 * **D3fau4**: coordinatore, Modder
 * **JonyLuke**: Modder
-* **Nasta95**: traduttore
+* **Nastas95**: Traduttore
+* **Popertix** Traduttore
 * **Xalgovia**: Progettista grafico, Modder
 
 
