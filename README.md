@@ -12,7 +12,7 @@ Undertale per Nintendo Switch in italiano
 1. Scarica l'ultima [release](https://github.com/UnderProject/UnderProjectNX/releases)
 2. Estrai UnderProjectNX.zip
 3. Copia nell'archivio estratto il file keys.txt (NON incluso)
-4. Esegui il file TRADUCIR.bat
+4. Esegui il file TRADUCI.bat
 5. Trascina il file NSP di Undertale sulla finestra e premi INVIO
 6. Il gioco patchato verrà creato nella cartella READY_LAYEREDFS
 7. Copia il contenuto della cartella READY_LAYEREDFS e incollalo nella SD nella cartella corrispondente al tuo CFW (Atmosphere/ReiNX/SXOS ecc)
