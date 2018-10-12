@@ -30,10 +30,11 @@ Undertale per Nintendo Switch in italiano
 * [Undertale Mod Tools](https://github.com/krzys-h/UndertaleModTool)
 
 ## Creatori:
-* **D3fau4**: coordinatore, Modder
+* **D3fau4**: Coordinatore, Modder
 * **JonyLuke**: Modder
-* **Nastas95**: Traduttore
-* **Popertix** Traduttore
+* **Nastas**: Traduttore, Coordinatore Italian Team
+* **Popertix**: Traduttore
+* **SnowSix**: Traduttore
 * **Xalgovia**: Progettista grafico, Modder
 
 
