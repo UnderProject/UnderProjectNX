@@ -21,6 +21,12 @@ Undertale per Nintendo Switch in italiano
 
 
 ## Crediti: (WIP)
+* [Nintendo](https://www.nintendo.com)
+
+* [Toby Fox]
+
+* [Game Maker: Studio](https://www.yoyogames.com/gamemaker)
+
 * [Hactool](https://github.com/SciresM/hactool)
 
 * [Xdelta3](https://github.com/jmacd/xdelta)
