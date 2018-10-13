@@ -29,6 +29,7 @@ Undertale for Nintendo Switch en Español
 * **Alexnavia3**: Traductor
 * **D3fau4**: Coordinador, Traductor, Modder
 * **JonyLuke**: Diseñador gráfico, Traductor, Modder
+* **Kardch**: Traductor
 * **Kato-cha (LOL)**: Traductor, Modder
 * **OddYow**: Traductora
 * **Xalgovia**: Diseñador gráfico, Traductor, Modder
