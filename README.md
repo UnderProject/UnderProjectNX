@@ -16,7 +16,7 @@ Undertale for Nintendo Switch en Español
 9. Disfruta de la beta.
 
 ## Progreso
-* 12491 de 13977 (Quedan 1486)
+* 14158 de 14158 (Release is comming!!!)
 
 ## Creditos: (WIP)
 * [Nintendo](https://www.nintendo.com)
