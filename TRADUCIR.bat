@@ -7,7 +7,7 @@ titlekey.exe
 cd ..
 set /p var=<tools\final.txt
 cd tools
-hactool.exe -k keys.dat -t nca "extracted\eddd7cfa3cdca6623f31cf2f20e9257e.nca" --titlekey="%var%" --romfsdir="extracted\romfs"
+hactool.exe -k prod.keys -t nca "extracted\eddd7cfa3cdca6623f31cf2f20e9257e.nca" --titlekey="%var%" --romfsdir="extracted\romfs"
 cd ..
 if not exist "%CD%\READY_LAYEREDFS" (
 mkdir "%CD%\READY_LAYEREDFS\010080b00ad66000\romfs"
