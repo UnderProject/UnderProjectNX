@@ -1,7 +1,7 @@
 @echo off
 Title UnderProjectNX
 set /p path="Arrastra el archivo nsp aqui: "
-tools\hactool.exe "%path:"=%" -k keys.dat -x --intype=pfs0 --pfs0dir="%CD%\tools\extracted"
+tools\hactool.exe "%path:"=%" -k prod.keys -x --intype=pfs0 --pfs0dir="%CD%\tools\extracted"
 cd tools
 titlekey.exe
 cd ..
