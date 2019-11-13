@@ -1,0 +1,21 @@
+name: CI
+
+on: [push]
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Update repo.
+      run: |
+        git submodule update --init --recursive
+        wget https://github.com/devkitPro/pacman/releases/download/devkitpro-pacman-1.0.1/devkitpro-pacman.deb
+        sudo dpkg -i devkitpro-pacman.deb
+        sudo dkp-pacman -S $(dkp-pacman -Ssq switch-*) --noconfirm
+        source /etc/profile.d/devkit-env.sh
+        echo test, and deploy your project.
+    - name: Run a multi-line script
+      run: |
+        make
